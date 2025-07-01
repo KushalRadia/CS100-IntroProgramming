@@ -69,18 +69,29 @@ Saturdays --> Lab batch 1 in Ed1-320 and  Batch 2 in TL1 ED1 -106<br>
 
 ---
 
-## Week 5: Lists and Tuples
+## Week 5: Functions and Recursion
+
+- Defining functions  
+- Parameters and return values  
+- Default & keyword arguments  
+- Variable-length arguments: `*args`, `**kwargs`  
+- Scope: local vs global  
+- Recursion basics and examples 
+
+---
+
+## Week 6: Lists and Tuples
 
 - List operations and methods  
 - Nested lists  
 - Tuples and immutability  
 - Tuple unpacking  
 - Memory representation: list vs tuple  
-- List comprehension  
+- List comprehension
 
 ---
 
-## Week 6: Sets and Dictionaries
+## Week 7: Sets and Dictionaries
 
 - Set operations: union, intersection, difference  
 - Set methods  
@@ -91,24 +102,13 @@ Saturdays --> Lab batch 1 in Ed1-320 and  Batch 2 in TL1 ED1 -106<br>
 
 ---
 
-## Week 7: Comprehensions, Memory & Copying
+## Week 8: Comprehensions, Memory & Copying
 
 - List, Set, Dictionary comprehensions  
 - Shallow Copy vs Deep Copy: `copy()` and `deepcopy()`  
 - Comparison: `is` vs `==`  
 - Memory allocation: `id()`, mutability  
 - `del` statement  
-
----
-
-## Week 8: Functions and Recursion
-
-- Defining functions  
-- Parameters and return values  
-- Default & keyword arguments  
-- Variable-length arguments: `*args`, `**kwargs`  
-- Scope: local vs global  
-- Recursion basics and examples  
 
 ---
 
