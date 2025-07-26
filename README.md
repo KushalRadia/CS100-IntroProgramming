@@ -3,6 +3,10 @@ Introduction to Problem Solving with Computers Using Python Programming
 
 This course will introduce you to problem-solving using programming. Beginning with simple tasks like evaluating mathematical expressions, calculating income-tax, to solving JEE problems (maths, physics, chemistry), we will gradually move on to engineering problems from all branches of engineering (mechanical, electrical, mechatronics, computer). We will focus on building logic, learning design patterns such as modularity, establishing program correctness, debugging, testing, and efficiency. 
 
+# Honor code: 
+
+https://web.stanford.edu/class/cs109/handouts/honorCode.html
+
 # Lectures, Tutorials and Labs 
 Monday: 9:30 am-10:25 am -- Lecture 1 -- LH300<br>
 Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300 
