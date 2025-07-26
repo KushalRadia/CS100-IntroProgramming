@@ -7,6 +7,15 @@ This course will introduce you to problem-solving using programming. Beginning w
 
 https://web.stanford.edu/class/cs109/handouts/honorCode.html
 
+Rule 1: You must not look at solutions that are not your own.
+Rule 2: You must not share your solutions with other students.
+Rule 3: You must indicate on your submission any assistance you received.
+Rule 4: Don't ask an LLM to solve homework for you
+Please be aware: all submissions are subject to automated plagiarism detection
+
+# Discuss ideas together, but do the coding on your own...
+# Perhaps the only way you may fail this course is by engaging in dishonesty
+
 # Lectures, Tutorials and Labs 
 Monday: 9:30 am-10:25 am -- Lecture 1 -- LH300<br>
 Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300 
