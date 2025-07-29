@@ -32,8 +32,12 @@ Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 320) <br>
 
 
 # Weekly Schedule
-## Week 1: Computer Fundamentals & Data Conversion
-
+## Week 1: Computer Fundamentals 
+- **What is Computer Science?**
+- **Can all problems be solved by computers?**
+	Undecidability, Halting problem
+- **Algorithms: pseudocode, flowcharts**
+- **Limitations of computers** 
 - **Types of Programming Languages**
 - **Interpreters vs Compilers**
 - **Common File Extensions**  
