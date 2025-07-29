@@ -19,10 +19,17 @@ __Perhaps the only way you may fail this course is by engaging in dishonesty__
 Monday: 9:30 am-10:25 am -- Lecture 1 -- LH300<br>
 Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300 
 
-Tuesday: Tutorial batch 1 -- LH300 (for approx. 150 students, with less familiarity with Programming, computers, weak communication skills etc.)<br> 
-Wednesday: Tutorial batch 2 -- LH300 (for approx. 150 students with better familiarity and communication skills)
+Tuesday: Tutorial for entire class -- LH300 <br> 
 
-Tues, Wed, Thr --> Labs in TL1 ED1 room 106 and ED1-312
+Tues, Wed, Thr --> Labs in TL1 ED1 room 106 and ED1-320
+	
+Tuesday	---> Batch 2 (ED1 Room 106) and Batch 6 (ED1 room 320) <br> 
+Wednesday	---> Batch 3	(ED1 Room 106) and Batch 5 (ED1 room 320) <br>
+Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 320) <br>
+<img width="279" height="81" alt="image" src="https://github.com/user-attachments/assets/9f22e283-671c-4614-8bef-84ae5c02f182" />
+
+
+
 
 # Weekly Schedule
 ## Week 1: Computer Fundamentals & Data Conversion
