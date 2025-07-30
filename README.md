@@ -40,6 +40,8 @@ Eventually, the ED1 room 312 may be used for students that need more help in the
 - **Limitations of computers** 
 - **Types of Programming Languages**
 - **Interpreters vs Compilers**
+
+## Week 2: Control Flow (If, Loops)
 - **Common File Extensions**  
   `.png`, `.jpg`, `.csv`, `.txt`, `.py`, `.ipynb`, etc.
 - **Data Types**  
@@ -49,9 +51,16 @@ Eventually, the ED1 room 312 may be used for students that need more help in the
 - **ASCII & Unicode**
 - **Type Casting**
 
+- Conditional Statements: `if`, `if-else`, `elif`  
+- Loops: `for`, `while`  
+- Loop controls: `break`, `continue`, `pass`  
+- `range()` function  
+- Nested loops  
+- Simple pattern printing  
+
 ---
 
-## Week 2: Python Basics & Operators
+## Week 3: Python Basics & Operators
 
 - Python installation & syntax  
 - Python IDEs: Jupyter Notebook, Spyder, VS Code, PyCharm  
@@ -70,24 +79,13 @@ Eventually, the ED1 room 312 may be used for students that need more help in the
 
 ---
 
-## Week 3: Strings & Console I/O
+## Week 4: Strings & Console I/O
 
 - Creating strings and using methods:  
   `upper()`, `lower()`, `find()`, `replace()`, slicing, etc.  
 - String formatting: f-strings, `.format()`  
 - Escape characters & raw strings  
 - Formatted input   
-
----
-
-## Week 4: Control Flow (If, Loops)
-
-- Conditional Statements: `if`, `if-else`, `elif`  
-- Loops: `for`, `while`  
-- Loop controls: `break`, `continue`, `pass`  
-- `range()` function  
-- Nested loops  
-- Simple pattern printing  
 
 ---
 
