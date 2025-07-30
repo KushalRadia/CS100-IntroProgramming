@@ -19,7 +19,7 @@ __Perhaps the only way you may fail this course is by engaging in dishonesty__
 Monday: 9:30 am-10:25 am -- Lecture 1 -- LH300<br>
 Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300 
 
-Tuesday: Tutorial for entire class -- LH300 <br> 
+Tuesday: 8:30 am to 9:30 am Tutorial for entire class -- LH300 <br> 
 
 Tues, Wed, Thr --> Labs in TL1 ED1 room 106 and ED1 room 312
 	
