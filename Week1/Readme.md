@@ -9,3 +9,7 @@ __Reading Materials__
 * NCERT Book chapter
 * Flowcharts and pseudocode
 * History of computers
+
+__Lecture slides for week 1__
+
+https://docs.google.com/presentation/d/1a7YyMYihbJIAt4RIuiuYJBYhQ0A1NIyH
