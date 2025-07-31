@@ -5,3 +5,7 @@ __Scratch tutorials:__
 * Making characters: https://www.youtube.com/watch?v=-3oCdNIeU_8
 * This is a link to story making tutorial: https://www.youtube.com/watch?v=uv8mbL-MC58
   
+__Reading Materials__
+* NCERT Book chapter
+* Flowcharts and pseudocode
+* History of computers
