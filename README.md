@@ -21,9 +21,8 @@ Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300
 
 Tuesday: 8:30 am to 9:30 am Tutorial for entire class -- LH300 <br> 
 
-Tues, Wed, Thr --> Labs in TL1 ED1 room 106 and ED1 room 312
-	
-Tuesday	---> Batch 2 (ED1 Room 106) and Batch 6 (ED1 room 312) <br> 
+Labs are in ED1	
+Tuesday	---> Batch 2 (ED1 Room 320) and Batch 6 (ED1 room 312) <br> 
 Wednesday	---> Batch 3	(ED1 Room 106) and Batch 5 (ED1 room 312) <br>
 Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 312) <br>
 
