@@ -29,6 +29,10 @@ Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 312) <br>
 Ed1 room 312 has a capacity of 32.  First 32 students on Batches 6,5 and 1 can be seated in ED1 room 312 while others can be seated in TL1 (Ed1 room 106).
 Eventually, the ED1 room 312 may be used for students that need more help in the respective batches for the day.
 
+**Office Hours***
+During office hours, you can meet the instructor and ask your questions, doubts etc.
+Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
+
 **After Hours Lab Timings and Volunteers**
 | Day       | Start Time | End Time         | Name          |
 | --------- | ---------- | ---------------- | ------------- |
