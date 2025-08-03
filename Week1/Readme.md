@@ -1,3 +1,5 @@
+**Materials and topics discussed during July 28 - Aug 2**
+
 Helpful links
 
 __Scratch tutorials:__
