@@ -42,6 +42,7 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 | Wednesday | 11:30 AM   | 1:30 PM          | Sandeep Mohan |
 |           | 6:00 PM    | 8:00 PM          | Remalya       |
 | Thursday  | 10:00 AM   | 12:00 PM         | Hetvi         |
+|           | 6:00 PM    | 8:00 PM          | Fenil Devganiyab       |
 | Friday    | 2:00 PM    | 4:00 PM          | Hasanna       |
 |	    | 6:00 PM    | 8:00 PM          | Prasanna      |
 | Saturday  | 9:30 AM    | 11:30 AM         | Dheeraj       |
