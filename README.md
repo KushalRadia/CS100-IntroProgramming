@@ -61,9 +61,18 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 	Undecidability, Halting problem
 - **Algorithms: pseudocode, flowcharts**
 - **Limitations of computers** 
+
+---
+## Week 1.1: Scratch, Flowcharts, Programming 
+
 - **Types of Programming Languages**
 - **Interpreters vs Compilers**
+- Flowgorithm
+- Conditional Statements: `if`, `if-else`, `elif`  
+- Loops: `for`, `while`
+- Why Python?
 
+---
 ## Week 2: Control Flow (If, Loops)
 - **Common File Extensions**  
   `.png`, `.jpg`, `.csv`, `.txt`, `.py`, `.ipynb`, etc.
@@ -73,9 +82,6 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
   Binary, Decimal, Hexadecimal, Octal
 - **ASCII & Unicode**
 - **Type Casting**
-
-- Conditional Statements: `if`, `if-else`, `elif`  
-- Loops: `for`, `while`  
 - Loop controls: `break`, `continue`, `pass`  
 - `range()` function  
 - Nested loops  
