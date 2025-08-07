@@ -46,6 +46,14 @@ M5. [Medium] Compute the sum of first N terms of a geometric progression of the 
 
 M6. [Medium] Count the numbers from 1 to 100, that do not contain the digit 3.
 
+M7. [Medium] Print all the factors of a number A.
+
+M8. [Medium] Given a number X (>5), display the three prime numbers (even equal ones) whose sum is equal to X.
+
+M9. [Medium] Game of Rock-Paper-Scissors. Take the inputs as R, P and S. 
+
+M10. [Medium] Generate a random number between 1 to N with equal probability.
+
 -------
 H1. [Hard] Check if a point P (x,y) is inside a triangle defined by 3 Points: A (a1,a2) ; B (b1, b2); C (c1,c2)
 
