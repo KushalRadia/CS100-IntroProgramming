@@ -73,6 +73,12 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 - Why Python?
 
 ---
+## Week 1.2: Models of computing
+- Math for computer scientists
+- Imperative model of computing
+- Functional model of computing
+
+----------
 ## Week 2: Control Flow (If, Loops)
 - **Common File Extensions**  
   `.png`, `.jpg`, `.csv`, `.txt`, `.py`, `.ipynb`, etc.
