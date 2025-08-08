@@ -54,6 +54,8 @@ M9. [Medium] Game of Rock-Paper-Scissors. Take the inputs as R, P and S.
 
 M10. [Medium] Generate a random number between 1 to N with equal probability.
 
+M11. Using M3, print all the palindrome numbers between 1000 and 10,000. A palindrome is a number that is the same whether we read from left to right OR right to left.
+
 -------
 H1. [Hard] Check if a point P (x,y) is inside a triangle defined by 3 Points: A (a1,a2) ; B (b1, b2); C (c1,c2)
 
