@@ -60,7 +60,8 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 - **Can all problems be solved by computers?**
 	Undecidability, Halting problem
 - **Algorithms: pseudocode, flowcharts**
-- **Limitations of computers** 
+- **Limitations of computers**
+- Lab: scratch programming
 
 ---
 ## Week 1.1: Scratch, Flowcharts, Programming 
@@ -71,12 +72,15 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 - Conditional Statements: `if`, `if-else`, `elif`  
 - Loops: `for`, `while`
 - Why Python?
+- Lab: Flowgorithm
 
 ---
 ## Week 1.2: Models of computing
-- Math for computer scientists
+- Math for computer scientists: PMI
+- Practice with algorithm development 
 - Imperative model of computing
 - Functional model of computing
+- Lab: Turtle graphics, game development 
 
 ----------
 ## Week 2: Control Flow (If, Loops)
