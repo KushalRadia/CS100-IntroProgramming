@@ -80,27 +80,10 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 - Practice with algorithm development 
 - Imperative model of computing
 - Functional model of computing
-- Lab: Turtle graphics, game development 
+- Lab: Turtle graphics, game development in Python, Python basics
 
 ----------
-## Week 2: Control Flow (If, Loops)
-- **Common File Extensions**  
-  `.png`, `.jpg`, `.csv`, `.txt`, `.py`, `.ipynb`, etc.
-- **Data Types**  
-  `int()`, `float()`, `str()`, `bool()`, etc.
-- **Number Systems**  
-  Binary, Decimal, Hexadecimal, Octal
-- **ASCII & Unicode**
-- **Type Casting**
-- Loop controls: `break`, `continue`, `pass`  
-- `range()` function  
-- Nested loops  
-- Simple pattern printing  
-
----
-
-## Week 3: Python Basics & Operators
-
+## Week 2: Python Basics & Operators, Control Flow (If, Loops)
 - Python installation & syntax  
 - Python IDEs: Jupyter Notebook, Spyder, VS Code, PyCharm  
 - Virtual Environment in Python  
@@ -115,31 +98,27 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
   - Identity  
 - `input()` and `print()`  
 - Comments and indentation  
+- **Common File Extensions**  
+  `.png`, `.jpg`, `.csv`, `.txt`, `.py`, `.ipynb`, etc.
+- **Data Types**  
+  `int()`, `float()`, `str()`, `bool()`, etc.
 
----
-
-## Week 4: Strings & Console I/O
-
+## Week 3: Strings & Console I/O
 - Creating strings and using methods:  
   `upper()`, `lower()`, `find()`, `replace()`, slicing, etc.  
 - String formatting: f-strings, `.format()`  
 - Escape characters & raw strings  
 - Formatted input   
-
+- **Number Systems**  
+  Binary, Decimal, Hexadecimal, Octal
+- **ASCII & Unicode**
+- **Type Casting**
+- Loop controls: `break`, `continue`, `pass`  
+- `range()` function  
+- Nested loops  
+- Simple pattern printing  
 ---
-
-## Week 5: Functions and Recursion
-
-- Defining functions  
-- Parameters and return values  
-- Default & keyword arguments  
-- Variable-length arguments: `*args`, `**kwargs`  
-- Scope: local vs global  
-- Recursion basics and examples 
-
----
-
-## Week 6: Lists and Tuples
+## Week 4: Lists and Tuples
 
 - List operations and methods  
 - Nested lists  
@@ -150,7 +129,7 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 
 ---
 
-## Week 7: Sets and Dictionaries
+## Week 5: Sets and Dictionaries
 
 - Set operations: union, intersection, difference  
 - Set methods  
@@ -160,6 +139,17 @@ Friday, ED1 Room 312 (11:30 a.m. - 1:30 p.m.)
 - `get()`, `setdefault()`, `fromkeys()` methods  
 
 ---
+## Week 6: Functions and Recursion
+- Defining functions  
+- Parameters and return values  
+- Default & keyword arguments  
+- Variable-length arguments: `*args`, `**kwargs`  
+- Scope: local vs global  
+- Recursion basics and examples 
+
+---
+## Week 7 : Midsem Examination, Midsem Break
+------
 
 ## Week 8: Comprehensions, Memory & Copying
 
