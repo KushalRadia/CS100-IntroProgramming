@@ -9,6 +9,9 @@ This week, we will be introducing Turtle Graphics, which is a library supported 
 
 https://docs.python.org/3/library/turtle.html
 
+Helpful tutorial: https://inventwithpython.com/stt/
+
+
 
 keep checking the videos posted on this playlist for more insights into algorithmic thinking:
 
