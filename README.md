@@ -31,7 +31,7 @@ Eventually, the ED1 room 312 may be used for students that need more help in the
 
 **Office Hours***
 During office hours, you can meet the instructor and ask your questions, doubts etc.
-Friday, ED1 Room 412 (12:30 p.m. - 1:30 p.m.)
+Friday, ED1 Room 412 (11:30 p.m. - 1:30 p.m.)
 
 **After Hours Lab Timings and Volunteers**
 | Day       | Start Time | End Time         | Name          |
