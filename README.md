@@ -119,15 +119,9 @@ Friday, ED1 Room 412 (11:30 p.m. - 1:30 p.m.)
 - Simple pattern printing  
 ---
 ## Week 4: Lists and Tuples
-
+- Sliding Character Game (Assignment 2), detailed design
 - List operations and methods  
 - Nested lists  
-- Tuples and immutability  
-- Tuple unpacking  
-- Memory representation: list vs tuple  
-- List comprehension
-
----
 
 ## Week 5: Sets and Dictionaries
 
