@@ -4,7 +4,8 @@ Introduction to Problem Solving with Computers Using Python Programming
 This course will introduce you to problem-solving using programming. Beginning with simple tasks like evaluating mathematical expressions, calculating income-tax, to solving JEE problems (maths, physics, chemistry), we will gradually move on to engineering problems from all branches of engineering (mechanical, electrical, mechatronics, computer). We will focus on building logic, learning design patterns such as modularity, establishing program correctness, debugging, testing, and efficiency. 
 
 # Course Textbook
-Think Python by Allen B Downey
+Think Python by Allen B Downey: https://allendowney.github.io/ThinkPython/index.html
+
 
 # Honor code: 
 
