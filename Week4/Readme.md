@@ -13,7 +13,7 @@ As covered in the TA-led lab sessions, here are the reference files and links fo
 
 ---
 
-## 🎥 YouTube Videos  
+## YouTube Videos  
 
 - [Flowgorithm Coins Solution](https://www.youtube.com/watch?v=6KMydOq2YM0)  
 - [Permutation in the List (ABC) — Problem Statement](https://www.youtube.com/watch?v=YmjOQNR2_1M)  
@@ -24,7 +24,7 @@ As covered in the TA-led lab sessions, here are the reference files and links fo
 
 ---
 
-## 📺 YouTube Playlists  
+## YouTube Playlists  
 
 - [Python Programming Tutorials by Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)  
 - [Python Programming Tutorials by IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)  
