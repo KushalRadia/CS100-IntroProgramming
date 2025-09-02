@@ -22,7 +22,7 @@ As per the TA's covering any topics in the Lab session we are sharing the refere
 * [How to Save Solution for Autograder Evaluation](https://youtu.be/cMtfXhogeYI)
 
 # Youtube Playlist 
-*[Python Programming Tutorials by Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+* [Python Programming Tutorials by Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
-*[Python Programming Tutorials by IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
+* [Python Programming Tutorials by IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
 
