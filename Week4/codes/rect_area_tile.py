@@ -1,18 +1,18 @@
-#  Find the area of the rectangle
+#  Find the area of the rectangle tile
 import math
 
-l = float(input("input length"))
-b = float(input("input breath"))
-s = float(input("input s")) 
+l = float(input("Input length: "))
+b = float(input("Input breath: "))
+s = float(input("Input s: ")) 
 
 while (l < 0):
     print("length can't be negative")
-    l = float(input("length"))
+    l = float(input("Input length: "))
     print("length is: ", l)
     
 while(b <0):
     print("breath cant be negative")
-    b = float(input("breath"))
+    b = float(input("Input breath: "))
     print("breath is: ", b)
     
 rect_area = l * b
@@ -71,7 +71,7 @@ def gcd_with_factors(a, b):
             gcd_val = c
 
     # return everything so we can see
-    return gcd_val, factors_a, factors_b, common_factors
+    return (gcd_val, factors_a, factors_b, common_factors)
         
 
 int_l, int_b = int(l), int(b)
