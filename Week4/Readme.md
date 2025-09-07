@@ -31,15 +31,15 @@ As covered in the TA-led lab sessions, here are the reference files and links fo
 
 ## Turtle video 
 
-[Introduction to Turtle Basic Draw Tutorial](https://youtu.be/zycD9wAn1g8)
-[Introduction to Turtle Tutorial - fill shape, color, and write text] (https://youtu.be/q_lM9umeofM)
-[Move the the turtle with arrows using the keyboard](https://youtu.be/0mVtO3CZZxo)
-[Introduction to Turtle Python - Draw on cursor mouse click dot](https://youtu.be/1Wmo5NXCQwI)
-[Introduction to Turtle Python - firework mini project](https://youtu.be/N_3HY5QQrgU)
+- [Introduction to Turtle Basic Draw Tutorial](https://youtu.be/zycD9wAn1g8)
+- [Introduction to Turtle Tutorial - fill shape, color, and write text] (https://youtu.be/q_lM9umeofM)
+- [Move the the turtle with arrows using the keyboard](https://youtu.be/0mVtO3CZZxo)
+- [Introduction to Turtle Python - Draw on cursor mouse click dot](https://youtu.be/1Wmo5NXCQwI)
+- [Introduction to Turtle Python - firework mini project](https://youtu.be/N_3HY5QQrgU)
 
 ## Ebook 
 
-[The Beginner's Guide to Python Turtle – Real Python](https://realpython.com/beginners-guide-python-turtle/) 
+- [The Beginner's Guide to Python Turtle – Real Python](https://realpython.com/beginners-guide-python-turtle/) 
 
 ## YouTube Playlists  
 
