@@ -30,33 +30,9 @@ Tuesday	---> Batch 2 (ED1 Room 320) and Batch 6 (ED1 room 312) <br>
 Wednesday	---> Batch 3	(ED1 Room 106) and Batch 5 (ED1 room 312) <br>
 Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 312) <br>
 
-Ed1 room 312 has a capacity of 32.  First 32 students on Batches 6,5 and 1 can be seated in ED1 room 312 while others can be seated in TL1 (Ed1 room 106).
-Eventually, the ED1 room 312 may be used for students that need more help in the respective batches for the day.
-
 **Office Hours***
 During office hours, you can meet the instructor and ask your questions, doubts etc.
 Friday, ED1 Room 412 (11:30 p.m. - 1:30 p.m.)
-
-**After Hours Lab Timings and Volunteers**
-| Day       | Start Time | End Time         | Name          |
-| --------- | ---------- | ---------------- | ------------- |
-| Monday    | 6:00 PM    | 8:00 PM          | Ishaan Shukla |
-| Tuesday   | 11:30 AM   | 1:30 PM          | Sharvari      |
-|	    |  6:00 PM   | 8:00 PM          | Shaoni        |
-| Wednesday | 11:30 AM   | 1:30 PM          | Sandeep Mohan |
-|           | 6:00 PM    | 8:00 PM          | Remalya       |
-| Thursday  | 10:00 AM   | 12:00 PM         | Hetvi         |
-|           | 6:00 PM    | 8:00 PM          | Fenil Devganiyab       |
-| Friday    | 2:00 PM    | 4:00 PM          | Hasanna       |
-|	    | 6:00 PM    | 8:00 PM          | Prasanna      |
-| Saturday  | 9:30 AM    | 11:30 AM         | Dheeraj       |
-| | 11:30 AM  | 1:30 PM    | Siddhant Pinetar |
-| | 2:00 PM   | 4:00 PM    | Daya             |
-| | 4:00 PM   | 6:00 PM    | Ananya           |
-| | 6:00 PM   | 8:00 PM    | Jaswanth         |
-| Sunday    | 2:00 PM    | 5:00 PM          | Abdul Karim   |
-| | 6:00 PM   | 6:00 PM    | Divyansh         |
-
 
 # Weekly Schedule
 ## Week 1: Computer Fundamentals 
