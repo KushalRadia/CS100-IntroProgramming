@@ -27,9 +27,9 @@ As covered in the TA-led lab sessions, here are the reference files and links fo
 - [Basic Number Slider Game — Part 1](https://youtu.be/w46OGe5kf2Q)  
 - [Basic Number Slider Game — Part 2](https://youtu.be/gEHUb8k4xGI)  
 - [How to Save Solutions for Autograder Evaluation](https://youtu.be/cMtfXhogeYI)
-- 
 
-# Turtle video 
+
+## Turtle video 
 
 [Introduction to Turtle Basic Draw Tutorial](https://youtu.be/zycD9wAn1g8)
 [Introduction to Turtle Tutorial - fill shape, color, and write text] (https://youtu.be/q_lM9umeofM)
@@ -37,7 +37,7 @@ As covered in the TA-led lab sessions, here are the reference files and links fo
 [Introduction to Turtle Python - Draw on cursor mouse click dot](https://youtu.be/1Wmo5NXCQwI)
 [Introduction to Turtle Python - firework mini project](https://youtu.be/N_3HY5QQrgU)
 
-# Ebook 
+## Ebook 
 
 [The Beginner's Guide to Python Turtle – Real Python](https://realpython.com/beginners-guide-python-turtle/) 
 
