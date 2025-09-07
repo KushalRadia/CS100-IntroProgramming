@@ -127,23 +127,24 @@ Friday, ED1 Room 412 (11:30 p.m. - 1:30 p.m.)
 - List operations and methods  
 - Nested lists  
 
-## Week 5: Sets and Dictionaries
-
-- Set operations: union, intersection, difference  
+## Week 5: Functions and Recursion
+- Defining functions  
+- Parameters and return values  
+- Default & keyword arguments  
+- Variable-length arguments: `*args`, `**kwargs`  
+- Scope: local vs global  
+- Recursion basics and examples
+- 
+- -
+## Week 6: Sets and Dictionaries
+Set operations: union, intersection, difference  
 - Set methods  
 - Dictionary creation, access, and methods  
 - Looping through dictionaries  
 - Nested dictionaries  
 - `get()`, `setdefault()`, `fromkeys()` methods  
 
----
-## Week 6: Functions and Recursion
-- Defining functions  
-- Parameters and return values  
-- Default & keyword arguments  
-- Variable-length arguments: `*args`, `**kwargs`  
-- Scope: local vs global  
-- Recursion basics and examples 
+--
 
 ---
 ## Week 7 : Midsem Examination, Midsem Break
