@@ -185,3 +185,5 @@ Set operations: union, intersection, difference
 Harvard's CS50: https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
 https://www.youtube.com/watch?v=8mAITcNt710&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC
 
+- Computer Basics video: https://www.youtube.com/watch?v=y2kg3MOk1sY
+
