@@ -181,5 +181,7 @@ Set operations: union, intersection, difference
 - System of Linear Equations:  
   - Gaussian Elimination (with code)
 
----
+## External Courses
+Harvard's CS50: https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
+https://www.youtube.com/watch?v=8mAITcNt710&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC
 
