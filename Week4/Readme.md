@@ -1,5 +1,8 @@
 # Week 4: Practice Session — Basics of Python Module
 
+There were no lecture slides this week.
+
+
 # Tuesday session tutorial 
 # Code for finding number of tiles in the rectangle 
 [Rectange Tile](./codes/rect_area_tile.py)
