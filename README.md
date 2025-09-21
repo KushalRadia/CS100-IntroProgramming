@@ -121,18 +121,45 @@ Set operations: union, intersection, difference
 
 ## Week 7 : Midsem Examination, Midsem Break
 ------
+## Week 8: Data Structures and OOPs in Python
+- Built-in data types: lists, set, tuple, dictionary
+- Basics: attributes, objects, mutable, Copy, 
+- Design first development
+- Functions and methods
+- `__init__` method  
+- `self` and instance attributes  
+-------------
+## Week 9: OOP in Python 
+- Encapsulation and abstraction  
+- Inheritance: single, multiple  
+- Method overriding  
+- Composition  
+- List, Set, Dictionary comprehensions
+----------
+## Week 10: File I/O & HTML 
+### File Handling
+- `open()`, `read()`, `write()`, `close()`  
+- File modes: `r`, `w`, `a`, `rb`, etc.  
+- Exception handling: `try`, `except`, `finally`, `raise`
+- Basics of web development
+- Web development via Python
+-----------------
+## Week 11: UNIX Essentials and Client-server programming
+- Basic commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `touch`, `cat`  
+- File permissions: `chmod`, `chown`  
+- Piping & redirection  
+- Navigating folders and environment variables  
+- Client-server programming
+- Intro to Flask for app development
 
-## Week 8: Comprehensions, Memory & Copying
-
-- List, Set, Dictionary comprehensions  
+## Week 12: Custom Data Structures via OOPS 
+- Tree
 - Shallow Copy vs Deep Copy: `copy()` and `deepcopy()`  
 - Comparison: `is` vs `==`  
 - Memory allocation: `id()`, mutability  
-- `del` statement  
+- `del` statement
 
----
-
-## Week 9: Functional Programming & Modules
+## Week 13: Functional Programming & Modules
 
 - Built-in functional tools: `map()`, `filter()`, `reduce()`  
 - Lambda expressions  
@@ -142,35 +169,7 @@ Set operations: union, intersection, difference
 - Writing your own module  
 
 ---
-
-## Week 10: OOP in Python
-
-- Classes and Objects  
-- `__init__` method  
-- `self` and instance attributes  
-- Encapsulation and abstraction  
-- Inheritance: single, multiple  
-- Method overriding  
-- Composition  
-
----
-
-## Week 11: File I/O & UNIX Commands
-
-### File Handling
-- `open()`, `read()`, `write()`, `close()`  
-- File modes: `r`, `w`, `a`, `rb`, etc.  
-- Exception handling: `try`, `except`, `finally`, `raise`  
-
-### UNIX Essentials
-- Basic commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `touch`, `cat`  
-- File permissions: `chmod`, `chown`  
-- Piping & redirection  
-- Navigating folders and environment variables  
-
----
-
-## Week 12: Copilot & LLMs for Coding
+## Week 14: Copilot & LLMs for Coding
 
 - Using GitHub Copilot and AI tools  
 - Introduction to LLMs (Large Language Models)  
