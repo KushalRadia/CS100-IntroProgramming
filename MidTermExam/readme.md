@@ -32,6 +32,41 @@ __More practice:__
 * BQ1.3: Write a code to print an english alphabet like A, B, C made of * on a 5x5 grid of LEDs.
 
 
+__Q2:__ Print all numbers below 1000 whose sum of digits is 7.
+
+__Solution:__ The solution consists of the following steps:
+
+**Planning:** We first recognize that we have to repeatedly compute the sum of digits in of a given number. It would be good to implement this as a function. It is also clear that this function has to be called 999 times with every number below 1000. We can reduce the number of calls by optimizing. For example, any number having a 8 or 9 can never have sum of its digits as 7.
+
+How to compute sum of digits of a number?
+Initialize the sum to 0. Keep incrementing sum by the digit in unit's place by remainder operator, num divided with 10. Divide the number by 10 so that the unit digit is removed. Continue till the number becomes 0.
+
+def sum_digit(num):
+Step 1: sum = 0
+Step 2: While the number is greater than 0,
+Step 3: sum = sum + num%10   
+Step 4: num = num //10
+Step 5: return sum
+
+for i in range(1,1000):
+  print sum_digit(i)
+
+The above problem can also be solved by converting the number to a string and iterating on its characters and adding their integer value to the sum.
+
+__More practice:__
+* BQ2.1: Write a code to print all numbers below 1000, whose product of digits is 8.
+* BQ2.2: Write a code to print all numbers made of following set of digits {1, 4, 5, 8} where each digit appears at least once and at most 3 times.
+* BQ2.3: Write a code to print all numbers made of following set of digits {1, 3, 5, 8} where sum of digits is 14.
+* 
+
+
+
+
+
+
+
+
+
 
 
 
