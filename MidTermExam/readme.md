@@ -34,9 +34,10 @@ __More practice:__
 
 __Q2:__ Print all numbers below 1000 whose sum of digits is 7.
 
-__Solution:__ The solution consists of the following steps:
 
 **Planning:** We first recognize that we have to repeatedly compute the sum of digits in of a given number. It would be good to implement this as a function. It is also clear that this function has to be called 999 times with every number below 1000. We can reduce the number of calls by optimizing. For example, any number having a 8 or 9 can never have sum of its digits as 7.
+
+__Solution:__ The solution consists of the following steps:
 
 How to compute sum of digits of a number?
 Initialize the sum to 0. Keep incrementing sum by the digit in unit's place by remainder operator, num divided with 10. Divide the number by 10 so that the unit digit is removed. Continue till the number becomes 0.
@@ -59,9 +60,27 @@ __More practice:__
 * BQ2.3: Write a code to print all numbers made of following set of digits {1, 3, 5, 8} where sum of digits is 14.
 * 
 
+__Q3__ You are given 3 lists of integers; you have to find their intersection. The lists can be of arbitrary size.
+Input:
+L1= [4,3,3,5,6,7]
+L2= [2,3,4,6,7,9,11,3]
+L3= [3,9,11,13,2,3,4,6,5]
+Output:
+[4,3,3,6]
 
+**Planning:** The elements in the intersection are common to all lists, but they can be repeated. In the example given, element 3 is repeated twice. A simple solution is to iterate over the elements in L1 and check if the element is present in the other two lists. If it is present, we can add it to the intersection and **delete** it from the other two lists. This deletion is important to handle the repetition case. You may also perform the intersection of two lists and take the intersection of the result with the third list.
 
+__Solution:__ The solution consists of the following steps:
 
+__More practice:__
+* BQ3.1: Write a code to merge elements of a list of lists.
+* BQ3.2: Write a code to take the intersection of a list of lists with element repetitions.
+* BQ3.3: Write a code to split a list into multiple lists, where each of the new lists has unique elements. Thus, these new lists are partitions of the original list. Each partition can have some properties such as a fixed number of elements, sorted order etc.
+Input:
+L = [4,3,3,5]
+Output:
+L_Out= [[4,3],[3,5]]
+  
 
 
 
