@@ -80,6 +80,11 @@ Input:
 L = [4,3,3,5]
 Output:
 L_Out= [[4,3],[3,5]]
+
+
+__Q4.__ Write a function min_digit(list) to find the smallest number in a list. Now, use this function to sort the list in ascending order.
+
+__Planning__: To find the minimum element, we can assume that the first element is **minimum seen so far** and go from left to right in the list (iterate over the list). If at any time, we find that the current element is smaller than the current minimum, then we can update the value of the minimum.
   
 
 
