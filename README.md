@@ -143,6 +143,7 @@ Set operations: union, intersection, difference
 - Exception handling: `try`, `except`, `finally`, `raise`
 - Basics of web development
 - Web development via Python
+- Basics of Cryptography
 -----------------
 ## Week 11: UNIX Essentials and Client-server programming
 - Basic commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `touch`, `cat`  
